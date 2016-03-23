@@ -1,4 +1,4 @@
-describe('Calulator App', function () {
+/*describe('Calulator App', function () {
     var $controller, $scope, controller;
     beforeEach(module('ngClassifieds'));
     
@@ -45,5 +45,5 @@ describe('Calulator App', function () {
              expect($scope.result).toBe(.5);
          }); 
     });
-
-});
+  });
+*/

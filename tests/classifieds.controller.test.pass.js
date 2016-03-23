@@ -1,4 +1,4 @@
-/*describe('Calulator App', function () {
+describe('Calulator App', function () {
     var $controller, $scope, controller;
     beforeEach(module('ngClassifieds'));
     
@@ -18,8 +18,8 @@
         });
 
     });
-      
-     describe('Subtraction Operation', function () {
+  
+/*     describe('Subtraction Operation', function () {
         it('1 - 2 should equal (-1)', function () {
              $scope.firstNum = 1;
              $scope.secondNum = 2;
@@ -44,6 +44,6 @@
              $scope.divide();
              expect($scope.result).toBe(.5);
          }); 
-    });
+    });*/
   });
-*/
+

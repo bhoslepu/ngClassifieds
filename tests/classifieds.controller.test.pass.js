@@ -19,7 +19,7 @@ describe('Calulator App', function () {
 
     });
   
-/*     describe('Subtraction Operation', function () {
+     describe('Subtraction Operation', function () {
         it('1 - 2 should equal (-1)', function () {
              $scope.firstNum = 1;
              $scope.secondNum = 2;
@@ -44,6 +44,6 @@ describe('Calulator App', function () {
              $scope.divide();
              expect($scope.result).toBe(.5);
          }); 
-    });*/
+    });
   });
 

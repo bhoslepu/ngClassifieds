@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 49.0.2623 (Linux 0.0.0)" package="" timestamp="2016-03-22T12:54:17" id="0" hostname="SCS-I01" tests="4" errors="0" failures="0" time="0.145">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"/>
+  </properties>
+  <testcase name="Calulator App Addition Operation 1 + 2 should equal 3" time="0.108" classname="Chrome_49_0_2623_(Linux_0_0_0).Calulator App"/>
+  <testcase name="Calulator App Subtraction Operation 1 - 2 should equal (-1)" time="0.013" classname="Chrome_49_0_2623_(Linux_0_0_0).Calulator App"/>
+  <testcase name="Calulator App Multiplication Operation 1 * 2 should equal 2" time="0.011" classname="Chrome_49_0_2623_(Linux_0_0_0).Calulator App"/>
+  <testcase name="Calulator App Division Operation 1 / 2 should equal (.5)" time="0.013" classname="Chrome_49_0_2623_(Linux_0_0_0).Calulator App"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>

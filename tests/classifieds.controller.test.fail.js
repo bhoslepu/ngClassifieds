@@ -1,4 +1,4 @@
-
+/*
 describe('Calulator App', function () {
     var $controller, $scope, controller;
     beforeEach(module('ngClassifieds'));
@@ -48,3 +48,4 @@ describe('Calulator App', function () {
     });
 
 });
+*/

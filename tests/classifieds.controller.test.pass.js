@@ -1,4 +1,4 @@
-/*describe('Calulator App', function () {
+describe('Calulator App', function () {
     var $controller, $scope, controller;
     beforeEach(module('ngClassifieds'));
     
@@ -46,4 +46,4 @@
          }); 
     });
   });
-*/
+
